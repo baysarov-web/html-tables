@@ -6,7 +6,7 @@
 
 После решения всех подзадач должна получиться страница следующего содержания: 
 
-![1](https://github.com/baysarov-web/html-tables/assets/155926464/efadcde5-3053-4fc9-b18f-0bd5ee9992de)
+<img width="906" alt="Снимок экрана 2024-01-09 в 18 58 19" src="https://github.com/baysarov-web/html-tables/assets/155926464/bd6a155d-cc95-4ed7-908e-a6d6cfd76ff9">
 
 ## Subtask 1
 
