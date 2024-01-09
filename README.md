@@ -6,7 +6,7 @@
 
 После решения всех подзадач должна получиться страница следующего содержания: 
 
-![table](./assets//1.png)
+![1](https://github.com/baysarov-web/html-tables/assets/155926464/efadcde5-3053-4fc9-b18f-0bd5ee9992de)
 
 ## Subtask 1
 
